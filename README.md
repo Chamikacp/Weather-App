@@ -1,5 +1,5 @@
 # Weather-App
-A simple SwiftUI weather application using API provided by openweather.org
+A simple SwiftUI weather application using API provided by openweather.org that will show the current and forecasted weather for a location chosen by the user.
 
 # Functional Requirements
 
