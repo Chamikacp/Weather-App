@@ -17,4 +17,4 @@ A simple SwiftUI weather application using API provided by openweather.org that 
   - The app interaction is consistent. 
   - The app should render on any iPhone.
  
-  
+  ![Demo](https://user-images.githubusercontent.com/58659306/171079118-a1595396-7f47-4236-bb1a-2ef424e6c517.gif)
